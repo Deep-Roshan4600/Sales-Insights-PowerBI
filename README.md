@@ -50,7 +50,7 @@ The data was imported into Power BI and prepared for analysis before creating th
 
 ## Dashboard Preview
 
-![Sales Performance Analytics]([Sales-Performance-Analytics.png](https://github.com/Deep-Roshan4600/Sales-Insights-PowerBI/blob/main/Sales-Performance-Analytics.png))
+![Sales Performance Analytics](https://github.com/Deep-Roshan4600/Sales-Insights-PowerBI/blob/main/Sales-Performance-Analytics.png)
 
 ## Conclusion
 
